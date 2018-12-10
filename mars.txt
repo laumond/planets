@@ -2,6 +2,10 @@ Cold and dry, but everything is my favorite color.
 
 The two moons may be a problem for Wolfman.
 
+<<<<<<< HEAD
 But the Mummy will appreciate the lack of humidity.
 
 Pouet pouet pouet iuiuiuiui
+=======
+But the Mummy will appreciate the lack of humidity.
+>>>>>>> parent of a769c21... Making a mistake
